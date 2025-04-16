@@ -1,3 +1,3 @@
 # firstGit-Demo
 My First Git Repository.<br>
-Author :- Atharv Dhebe
+Author :- Atharv B Dhebe
